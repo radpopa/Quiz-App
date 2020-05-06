@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="Town1">Bucharest</string>
+    <string name="Town2">Vladivostok</string>
+    <string name="Town3">Paris</string>
+    <string name="Town4">Cairo</string>
+    <string name="result">result</string>
+    <string name="InfoName">Type your name</string>
+    <string name="QuestionRiver">Which is the longest River in the Europe ?</string>
+    <string name="InfoRiver">Type the name of the longest River</string>
+    <string name="QuestionContinents">How many Continents are in the world:</string>
+    <string name="Nr5">5</string>
+    <string name="Nr7">7</string>
+    <string name="Nr9">9</string>
+    <string name="QuestionMap">Where is the North on a map?</string>
+    <string name="AnswerUp">Upside on the Map</string>
+    <string name="AnswerLeft">Left on the Map</string>
+    <string name="AnswerRight">Right on the Map</string>
+    <string name="AnswerDown">Down on the Map</string>
+    <string name="QuestionCity">What cities are located in Europe :</string>
+    <string name="submit">submit</string>
+    <string name="send">send</string>
+    <string name="reset">reset</string>
+</resources>
